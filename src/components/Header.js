@@ -19,7 +19,7 @@ function Header() {
           transform: showHeaderBar ? `translateY(120px)` : `translateY(0px)`,
         }}
       >
-        <h3 className="header__bar__title">Frontend Developer</h3>
+        <h3 className="header__bar__title">Software Developer</h3>
         <div className="header__bar__icons">
           <a href="https://www.instagram.com/pallavimore515/" target="_blank">
             <img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png" />
