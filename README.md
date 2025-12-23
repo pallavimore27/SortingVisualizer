@@ -8,25 +8,35 @@ Sorting Visualizer is a web application built using React.js and Redux that visu
 ✨ Features
 
 🎲 Generate random array
+
 📊 Visualize sorting with animations
 
 🔁 Algorithms supported:
 Bubble Sort
+
 Selection Sort
+
 Insertion Sort
+
 Merge Sort
+
 Quick Sort
 
 ⏱️ Control sorting speed
+
 📘 Display time complexity
 
 🛠️ Technologies Used
 ⚛️ React.js
+
 🧠 Redux
+
 💻 JavaScript
+
 🎨 HTML & CSS
 
 🔄 Project Flow
+
 The application generates a random array and displays it as vertical bars. When the user selects an algorithm and speed, Redux updates the state. The selected sorting algorithm runs step by step, and the bars change color and position until the array is sorted.
 
 ⚙️ How to Run the Project Locally
@@ -48,5 +58,4 @@ http://localhost:3000
 Learning Outcome
 
 This project improved my understanding of sorting algorithms, React, and Redux, and helped me connect theory with practical implementation.
-=======
->>>>>>> 6a87770a97db1e3f678472e188ce82e98702035d
+
