@@ -1,4 +1,5 @@
 
+
 📊 Sorting Visualizer
 🔍 Overview
 
@@ -47,3 +48,5 @@ http://localhost:3000
 Learning Outcome
 
 This project improved my understanding of sorting algorithms, React, and Redux, and helped me connect theory with practical implementation.
+=======
+>>>>>>> 6a87770a97db1e3f678472e188ce82e98702035d
